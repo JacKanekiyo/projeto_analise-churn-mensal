@@ -1,0 +1,6 @@
+ID O.S.;ID - Cliente;Cliente;ID - Assunto;Assunto;ID - Colaborador(a);Colaborador(a);Data abertura;Data agendamento;Data fechamento;ID - Diagnóstico;Diagnóstico;Diagnóstico detalhado;Mensagem de fechamento da O.S.
+5001;1002;Mariana Costa;301;LENTIDÃO NO SINAL;55;Fernanda Lima;10/04/2026;11/04/2026;11/04/2026;901;Rompimento de Fibra;Fibra rompida no poste da rua;Troca de drop realizada com sucesso
+5002;1002;Mariana Costa;302;QUEDAS FREQUENTES;55;Fernanda Lima;11/04/2026;12/04/2026;12/04/2026;902;Equipamento Queimado;ONU queimada após descarga elétrica;Substituição da ONU efetuada
+5004;1004;Juliana Lima;301;LENTIDÃO NO SINAL;60;Rodrigo Alves;20/04/2026;21/04/2026;21/04/2026;903;Sinal Baixo;Atenuação alta no conector do cliente;Reforçado o conector na CTO
+5005;1001;Carlos Silva;305;TRANSFERÊNCIA DE ENDEREÇO;62;Aline Prado;02/04/2026;03/04/2026;03/04/2026;905;Serviço Concluído;Mudança de endereço solicitada;Inviabilidade técnica no novo endereço
+5006;1003;Roberto Souza;309;RETIRADA DE EQUIPAMENTO;62;Aline Prado;19/04/2026;20/04/2026;20/04/2026;906;Equipamento Recolhido;Encerramento do contrato;Retirada do roteador efetuada
