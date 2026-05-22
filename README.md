@@ -33,11 +33,11 @@ O projeto automatiza a geração de cinco visões gráficas executivas utilizand
 
 * Volume e receita perdida por cidade.
 
-![Volume de Churn por Cidade](./Imagens/volume_cancelamento_cidade.png)
+![Volume de Churn por Cidade](./imagens/volume_cancelamento_cidade.png)
 
 * Ciclo de vida do cliente com identificação de faixas críticas de tempo de contrato.
 
-![Ciclo de Vida do Cliente](./Imagens/ciclo_vida_cliente.png)
+![Ciclo de Vida do Cliente](./imagens/ciclo_vida_cliente.png)
 
 ### Estrutura do Repositório
 * analise_cancelamentos.py: Script principal com a lógica de tratamento e geração de gráficos.
