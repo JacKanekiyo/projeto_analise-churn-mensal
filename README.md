@@ -28,6 +28,16 @@ O projeto automatiza a geração de cinco visões gráficas executivas utilizand
 * Matplotlib
 * Seaborn
 
+* ### Relatórios Visuais Gerados
+O projeto automatiza a geração de cinco visões gráficas executivas utilizando Seaborn e Matplotlib com identidade visual institucional:
+
+* Volume e receita perdida por cidade.
+![Volume de Churn por Cidade](imagens/grafico_cidades.png)
+
+* Ciclo de vida do cliente com identificação de faixas críticas de tempo de contrato.
+![Ciclo de Vida do Cliente](imagens/grafico_ciclo_vida.png)
+
 ### Estrutura do Repositório
 * analise_cancelamentos.py: Script principal com a lógica de tratamento e geração de gráficos.
 * dados_ficticios/: Diretório contendo bases mascaradas com dados fictícios para testes e validação da lógica do script, garantindo a segurança de dados sensíveis da operação.
+* imagens/: Diretório contendo as visualizações gráficas geradas pelo script para exibição e documentação dos resultados no relatório.
